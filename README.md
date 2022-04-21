@@ -8,6 +8,10 @@
 
 反正没人用，所以文档就咕咕咕咕了
 
+![WAF](/img/2.png)
+
+![block ip list](./img/1.png)
+
 ## 相关项目
 
 [Cloudflare-WAF-to-AbuseIPDB](https://github.com/MHG-LAB/Cloudflare-WAF-to-AbuseIPDB)
